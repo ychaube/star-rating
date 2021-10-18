@@ -1,0 +1,13 @@
+.star__rating {
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.star__rating--filled {
+    fill: gold;
+    transform: scale(1.25);
+}
+
+.star__rating--blank {
+    fill: #d8d8d8;
+}

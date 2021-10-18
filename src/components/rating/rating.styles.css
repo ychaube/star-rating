@@ -1,0 +1,9 @@
+.rating__stars {
+    display: flex;
+}
+
+.rating__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

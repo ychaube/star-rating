@@ -1,0 +1,14 @@
+.details__container {
+    margin: 20px 0px;
+}
+
+.details__title {
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.details__content__container {
+    border: 1px solid #eee;
+    padding: 10px;
+    border-radius: 10px;
+}
